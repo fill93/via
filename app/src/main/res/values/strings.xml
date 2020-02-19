@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TesteVia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Filipe Pimentel</string>
+    <string name="nav_header_subtitle">filipepimentel.fp@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Produtos</string>
+
+    <string name="erro_405">Metodo Http não encontrado\n(405)</string>
+    <string name="erro_500">Erro iterno\n(500)</string>
+    <string name="erro_desconhecido">Erro desconhecido</string>
+    <string name="erro_implemente">Implementar mensagem deste erro</string>
+    <string name="continuar">Continuar</string>
+    <string name="lista_vazia">Lista vazia</string>
+
+    <string name="erro_jsondataexception">JsonDataException</string>
+    <string name="erro_connectexception">ConnectException</string>
+    <string name="erro_sockettimeoutexception">SocketTimeoutException</string>
+
+
+</resources>
